@@ -1,0 +1,50 @@
+Have breaking bricks show you a +100 (or whatever the current point value of a brick breaking event is) at the location
+of the destroyed brick. Score should float up and fade away rapidly so as not to cover up the playing field detrimentally.
+
+Fiddle around with the ball absorbing momentum from the paddle
+
+Attempt full-screen mode.
+
+Make it so game pauses on death and has player hit "SPACE BAR" or something else when the player is ready to use the next
+ball.
+
+Make it so that getting a certain number of bricks without dying will increase the score multiplier from 1->2->3->...e.t.c.
+up to a maximum of x5!
+
+Have a level beaten without dying say "PERFECT"
+
+Clean up code.
+
+Introduce a double buffering system.
+
+Create level system: using ascii text 30 deep by 15 wide. At most these can all be 1 (level 1 bricks), more than likely
+000000000000000 1                   you will want blind spots. Can also have it so that a number other than 0 (no brick)
+000000000000000 2                   and other than 1 will generate a brick with special properties (i.e. has more than
+000000000000000 3                   one hit point or releases a second ball, powerup e.t.c..)
+000000000000000 4
+000000000000000 5
+000000000000000 6
+000000000000000 7
+000000000000000 8
+000000000000000 9
+000000000000000 10
+000000000000000 11
+000000000000000 12
+000000000000000 13
+000000000000000 14
+000000000000000 15
+000000000000000 16
+000000000000000 17
+000000000000000 18
+000000000000000 19
+000000000000000 20
+000000000000000 21
+000000000000000 22
+000000000000000 23
+000000000000000 24
+000000000000000 25
+000000000000000 26
+000000000000000 27
+000000000000000 28
+000000000000000 29
+000000000000000 30

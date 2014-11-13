@@ -1,0 +1,15 @@
+problems:
+
+Pause but cannot unpause
+
+When window is open the game starts immediately but does not show lives until player hits start in menu
+
+player can hit start while paused and it causes the lives to appear. 
+
+alt-hot-keys do not work. Start and pause are set to ctrl-Q. It only shows the mneumonic for the start menu item. 
+
+
+to-do: 
+
+create bricks. 
+lots more....

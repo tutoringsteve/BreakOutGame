@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\ForcesOfOdin\Documents\NetBeansProjects\BreakOutG
+ ame\src\
+Main-Class: Breakout
+

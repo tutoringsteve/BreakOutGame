@@ -1,0 +1,9 @@
+Slept: 1000 ms System.nanoTime(): 999.99 ms err: 0 %
+Slept: 500 ms System.nanoTime(): 500.37 ms err: -0.07 %
+Slept: 200 ms System.nanoTime(): 199.64 ms err: 0.18 %
+Slept: 100 ms System.nanoTime(): 100.75 ms err: -0.75 %
+Slept: 50 ms System.nanoTime(): 50.01 ms err: -0.01 %
+Slept: 20 ms System.nanoTime(): 20.04 ms err: -0.2 %
+Slept: 10 ms System.nanoTime(): 9.84 ms err: 1.61 %
+Slept: 5 ms System.nanoTime(): 4.83 ms err: 3.59 %
+Slept: 1 ms System.nanoTime(): 0.92 ms err: 8.33 %
