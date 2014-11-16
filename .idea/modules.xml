@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BreakOutGame.iml" filepath="$PROJECT_DIR$/BreakOutGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExperimentalOrUnused/ExperimentalOrUnused.iml" filepath="$PROJECT_DIR$/ExperimentalOrUnused/ExperimentalOrUnused.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Game Utilities/Game Utilities.iml" filepath="$PROJECT_DIR$/Game Utilities/Game Utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameUtilities/GameUtilities.iml" filepath="$PROJECT_DIR$/GameUtilities/GameUtilities.iml" />
     </modules>
   </component>
 </project>

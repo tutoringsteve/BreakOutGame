@@ -1,9 +1,9 @@
 #Project Specific
-Game Utilities/*
+GameUtilities/
 
 
 #IDE specific - intellij
-.idea/*
+.idea/
 
 #java specific
 *.class
