@@ -1,4 +1,4 @@
-BreakOutGame2
+BreakOutGame
 =============
 
 Java coded game based on breakout
